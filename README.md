@@ -1,5 +1,5 @@
 # Turtle-Graphics-2
-###turtle makes three triangle
+### turtle makes three triangle
 
 ```python
 import turtle
